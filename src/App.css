@@ -1,38 +1,62 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Prata&display=swap");
+body {
+  background-color: #F2F6F2; 
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+* {
+    padding: 0;
+    margin: 0; 
+}  
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.nav-style {
+  background-color: #5E6D4B;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  opacity: .8; }
+  .nav-style img {
+    width: 100px; }
+  .nav-style ul {
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute; }
+    .nav-style ul li {
+      list-style: none;
+      font-family: "Comfortaa", cursive;
+      color: #F2F6F2;
+      font-size: 1em;
+      text-decoration: none;
+      display: flex;
+      justify-content: space-evenly;
+     }
+        .nav-style ul li:hover {
+          color: white;
+          font-weight: 600;
+          background-size: 100% 2px; 
 }
 
-.App-link {
-  color: #61dafb;
+
+
+
+.titulosPrincipales {
+  font-family: "Prata", serif;
+    color: #5E6D4B;
+    font-weight: 400;
+    font-size: 2.8em;
+    text-align: center; 
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.titulosSecundarios{
+   font-family: "Prata", serif;
+    color: #5E6D4B;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.titulosAnexos{
+  font-size: 1em;
+  font-family: "Prata", serif;
+  color: #5E6D4B;
+  font-weight: 400;
+
 }

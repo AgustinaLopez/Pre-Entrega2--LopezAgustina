@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Prata&display=swap");
+
+.carrito-widget {
+   display: flex;
+}
+
+.cart-icono {
+   position: relative;
+   width: 0,5px;
+   height: 40px;
+   align-self: center;
+}
+
+.numero-cart {
+   position: absolute;
+   align-self: center;
+   font-size: 2em;
+   font-weight: 300;
+   color: white;  
+   
+}

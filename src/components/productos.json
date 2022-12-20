@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Muñequito de Apego - Gatita 1",
+        "precio": 1500,
+        "categoria": "juguete",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477034/REACT%20-%20Limonero/producto-1_p7mwzs.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    },
+
+    {
+        "id": "2",
+        "name": "Muñequito de Apego - Gatita 2",
+        "precio": 1500,
+        "categoria": "juguete",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477030/REACT%20-%20Limonero/producto-5_sqztwl.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    },
+
+    {
+        "id": "3",
+        "name": "Muñequito de Apego - Ratoncita 1",
+        "precio": 1500,
+        "categoria": "juguete",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477031/REACT%20-%20Limonero/producto-2_apzfiu.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    },
+
+    {
+        "id": "4",
+        "name": "Muñequito de Apego - Ratoncita 2",
+        "precio": 1500,
+        "categoria": "juguete",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477035/REACT%20-%20Limonero/producto-6_nfbzze.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    },
+
+    {
+        "id": "5",
+        "name": "Canasto Perita",
+        "precio": 2500,
+        "categoria": "cesteria",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477035/REACT%20-%20Limonero/producto-3_uqo1ld.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    },
+
+    {
+        "id": "6",
+        "name": "Guirnalda Bosque",
+        "precio": 1200,
+        "categoria": "decoracion",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477033/REACT%20-%20Limonero/producto-7_yn8psq.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    },
+
+    {
+        "id": "7",
+        "name": "Luz de Noche - Honguito",
+        "precio": 3800,
+        "categoria": "cesteria",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477030/REACT%20-%20Limonero/producto-4_ftctlv.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    },
+
+    {
+        "id": "8",
+        "name": "Canasto con Asas",
+        "precio": 5000,
+        "categoria": "cesteria",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477812/REACT%20-%20Limonero/producto-8_colm2c.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    },
+
+    {
+        "id": "9",
+        "name": "Espejo Orejitas",
+        "precio": 2000,
+        "categoria": "cesteria",
+        "img": "https://res.cloudinary.com/dvg9bxeas/image/upload/v1671477811/REACT%20-%20Limonero/producto-9_yftzip.jpg",
+        "descrip": "Lorem ipsum dolor sit amet. Non galisum ullam eos molestias velit qui earum dolorum At pariatur culpa ea doloremque mollitia? Sed velit beatae aut eaque impedit vel enim voluptate ea deleniti sequi qui voluptas consequatur. Et deleniti officiis et harum ipsam ut doloribus eligendi."
+    }
+]
